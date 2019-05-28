@@ -32,3 +32,11 @@ export function addNote(req, res) {
       });
   });
 }
+
+export function deleteNote(){
+
+};
+
+export function editNote(){
+
+};

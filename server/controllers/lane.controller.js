@@ -43,3 +43,7 @@ export function deleteLane(req, res) {
     });
   });
 }
+
+export function editLane(){
+	
+}

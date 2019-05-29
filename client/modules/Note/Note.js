@@ -1,4 +1,5 @@
-import React, { PropTypes } from 'react';
+import React from 'react';
+import PropTypes from 'prop-types';
 import styles from './Note.css';
 import ItemTypes from '../Kanban/itemTypes';
 import {DragSource, DropTarget} from 'react-dnd';
